@@ -1,3 +1,4 @@
  Mis primeras notas en git 
 segunda linea: aprendiendo git paso a paso
 tercera linea: practicando en repositorio clonado
+cuarta linea: agregada directamente desde GitHub 
