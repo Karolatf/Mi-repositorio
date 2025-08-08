@@ -1,1 +1,2 @@
  Mis primeras notas en git 
+segunda linea: aprendiendo git paso a paso
