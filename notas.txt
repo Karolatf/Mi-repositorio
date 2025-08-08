@@ -1,4 +1,4 @@
- Mis primeras notas en git 
+Primera linea modificada en rama conflicto
 segunda linea: aprendiendo git paso a paso
 tercera linea: practicando en repositorio clonado
 cuarta linea: agregada directamente desde GitHub 
